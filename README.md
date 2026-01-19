@@ -1,45 +1,46 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=XPLOIT%20HUNTER&fontSize=70&fontAlignY=45&animation=fadeIn&fontColor=ffffff" />
-</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=SECURITY+RESEARCHER;PYTHON+ARCHITECT;FULL-STACK+ENGINEER" />
+  <img src="https://raw.githubusercontent.com/xploithunter5/Xploit_Hunter/main/Xploit_Hunter.png" width="180" alt="Xploit Hunter Logo">
   
-  <p>
-    <img src="https://img.shields.io/badge/DEVELOPER-MASTER-black?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-red?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&center=true&vCenter=true&width=600&lines=Xploit_Hunter+%7C+FF0000;Master+of+Systems+%7C+FFD700;Cyber+Security+Expert+%7C+FFFFFF" alt="Branded Title" />
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=xploithunter5&label=SYSTEM_ACCESS_COUNT&color=red&style=for-the-badge" alt="Visitor Count">
   </p>
 </div>
 
 ---
 
-### 📂 <font color="#FF0000">Core Repositories</font>
+### 🕵️‍♂️ <font color="#FF0000">Professional Ecosystem</font>
 
-| Project | Description | Role |
+| Repository | Primary Function | Technical Focus |
 | :--- | :--- | :--- |
-| **[Xploit_Hunter](https://github.com/xploithunter5/Xploit_Hunter)** | Advanced Security Toolkit (Application Hackbar style). | `Primary Tool` |
-| **[Deface](https://github.com/xploithunter5/Deface)** | Web Security Demonstration & Site Integrity Analysis. | `Research` |
+| **[Xploit_Hunter](https://github.com/xploithunter5/Xploit_Hunter)** | **Security Toolkit** | Manual Audits, Payloads, & App Testing (Hackbar Style) |
+| **[Deface](https://github.com/xploithunter5/Deface)** | **Web Demonstration** | Site Integrity Research & Vulnerability Proof of Concepts |
 
 ---
 
-### 🛠️ <font color="#FFFF00">Technical Arsenal</font>
+### 🛠️ <font color="#FFD700">Mastery & Specialization</font>
 
-* **Cyber Security:** Penetration Testing, Payload Engineering, Vulnerability Assessment.
-* **Python Mastery:** Automation, Advanced Backend Logic, Security Tooling.
-* **Web/App Dev:** Secure Architecture, Full-Stack Development, UI/UX Design.
-
----
-
-### ⚠️ <font color="#FF0000">Legal Notice</font>
-> **DISCLAIMER:** Xploit_Hunter tools and information are strictly for **Educational and Ethical Security Testing**. I assume **no responsibility** for the misuse of these tools. Unauthorized access to systems is illegal.
+* **🔴 Cyber Security:** Specialist in Penetration Testing, Vulnerability Research, and Exploitation Methodology.
+* **🟡 Python Mastery:** Architect of Advanced Automation, Security Tooling, and Backend Systems.
+* **⚪ Full-Stack Development:** Expert in Secure Web Architecture and Mobile Application Engineering.
 
 ---
 
-### 📊 <font color="#00FF00">System Activity</font>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xploithunter5&theme=tokyo-night&area=true&hide_border=true&color=ff0000" width="100%" />
+### ⚠️ <font color="#FF0000">Legal Disclaimer</font>
+> **NOTICE:** The developer of **Xploit_Hunter** is **not responsible** for any misuse or damage caused by the tools or information provided. Everything in these repositories is strictly for **Educational and Ethical Security Testing** purposes only. Unauthorized use is strictly prohibited.
+
+---
+
+### 📊 <font color="#FFD700">System Analytics</font>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xploithunter5&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ffd700&text_color=ffffff&bg_color=000000" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xploithunter5&layout=compact&theme=dark&hide_border=true&title_color=ff0000&icon_color=ffd700&text_color=ffffff&bg_color=000000" width="48%">
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=ACCESS%20GRANTED&fontSize=20&fontColor=ff0000" />
-</p>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer&text=Every%20system%20has%20a%20weakness&fontSize=20&fontColor=ffd700" />
+</div>
