@@ -1,41 +1,55 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/xploithunter5/Xploit_Hunter/main/Xploit_Hunter.png" width="180" alt="Xploit Hunter Logo">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&center=true&vCenter=true&width=600&lines=Xploit_Hunter+%7C+FF0000;Xploit_Hunter+%7C+FFFF00;Xploit_Hunter+%7C+FF00FF" alt="Name Animation" />
+  <h1><font color="#FF0000">Xploit</font>_<font color="#FFFF00">Hunter</font></h1>
+  
+  <p><b>Master of Cyber Security | Python Expert | Full-Stack Developer</b></p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=xploithunter5&label=SYSTEM_ACCESS_LOGS&color=gradient&style=for-the-badge" alt="Visitor Count">
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=xploithunter5&label=PROFILE_VIEWS&color=red&style=for-the-badge" alt="Visitor Count">
 </div>
 
 ---
 
-### 🕵️‍♂️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=FF5555&width=400&lines=Project+Documentation" />
+### 🛡️ About Xploit_Hunter
+**Xploit_Hunter** is a professional-grade framework and repository dedicated to **Cyber Security Research** and **Advanced System Architecture**. 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFFF00&multiLine=true&width=800&height=100&lines=Xploit_Hunter+is+a+specialized+framework+designed+for;security+research+and+educational+pursuits.+It+consolidates;advanced+vulnerability+research+into+a+unified+knowledge+hub." />
-
----
-
-### ⚠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=FF0000&width=400&lines=Legal+Disclaimer" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF5555&multiLine=true&width=800&height=80&lines=The+developer+of+Xploit_Hunter+is+NOT+responsible+for+any+misuse;of+the+tools+provided.+These+resources+are+strictly+for+legal;security+testing+and+educational+purposes+only." />
+This project serves as a comprehensive knowledge hub, consolidating vulnerability research, exploitation methodologies, and automation scripts into a single, structured environment for educational purposes.
 
 ---
 
-### 🛠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=00FF00&width=400&lines=Mastery+Arsenal" />
+### ⚠️ Legal Disclaimer
+> **IMPORTANT:** The developer of **Xploit_Hunter** is **NOT** responsible for any misuse of the tools or information provided within this repository. All resources are intended strictly for **legal security testing, ethical hacking, and educational pursuits only.** Users must comply with all local and international laws.
 
+---
+
+### 🛠️ Technical Mastery Arsenal
+
+| Domain | Proficiency | Expert Tech Stack |
+| :--- | :--- | :--- |
+| <font color="#FF0000">**Cyber Security**</font> | `Master` | Penetration Testing • Metasploit • Kali Linux • Nmap |
+| <font color="#FFFF00">**Python Mastery**</font> | `Master` | Automation • Backend Logic • Tool Development • Scripting |
+| <font color="#00FF00">**Web & App Dev**</font> | `Senior` | HTML5 • JavaScript • Flutter • Android Engineering |
+
+---
+
+### 📂 Featured Research
+* 🔴 **[Xploit_Hunter Repository](https://github.com/xploithunter5/Xploit_Hunter)** – The core hub for security exploitation and research.
+* 🟡 **[Deface Repository](https://github.com/xploithunter5/Deface)** – Web-front-end vulnerability analysis and structural testing.
+
+---
+
+### 🌐 Connect & Activity
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=FF0000&width=600&lines=%E2%9A%94%EF%B8%8F+Master+of+Cyber+Security+%26+Exploitation" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=FFFF00&width=600&lines=%F0%9F%90%8D+Advanced+Python+Automation+Specialist" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00FF00&width=600&lines=%F0%9F%8C%90+Full-Stack+Web+%26+App+Architecture" />
+  <img src="https://img.shields.io/badge/STATUS-SCANNING_FOR_WEAKNESS-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/EXPERTISE-FULL_STACK_SECURITY-yellow?style=flat-square" />
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xploithunter5&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ffff00&text_color=ffffff&bg_color=000000)
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5555&center=true&vCenter=true&width=600&lines=%22Every+system+has+a+weakness.%22;%22I'm+just+the+one+who+finds+it.%22" />
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <i>"Every system has a weakness. I'm just the one who finds it."</i>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=footer" />
 </div>
