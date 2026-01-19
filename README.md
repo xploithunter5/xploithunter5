@@ -1,44 +1,49 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xploithunter5/Xploit_Hunter/main/Xploit_Hunter.png" width="160" alt="Xploit Hunter Logo">
+  <img src="https://raw.githubusercontent.com/xploithunter5/Xploit_Hunter/main/Xploit_Hunter.png" width="180" alt="Xploit Hunter Logo">
   
-  <h1>Xploit_Hunter</h1>
-  <p><b>Full-Stack Developer | Senior Security Researcher | Python Expert</b></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&center=true&vCenter=true&width=600&lines=Xploit_Hunter+%7C+FF0000;Xploit_Hunter+%7C+FFFF00;Xploit_Hunter+%7C+FF00FF" alt="Name Animation" />
 
-  <img src="https://komarev.com/ghpvc/?username=xploithunter5&label=SECURITY_ACCESS_LOGS&color=red&style=for-the-badge" alt="Visitor Count">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&multiLine=true&center=true&vCenter=true&width=600&height=100&lines=%E2%9A%9B+PYTHON+MASTER+DEVELOPER+%7C+FF79C6;%F0%9F%9B%A1%EF%B8%8F+CYBER+SECURITY+EXPERT+%7C+BD93F9;%F0%9F%8C%90+FULL-STACK+WEB+MASTER+%7C+8BE9FD;%F0%9F%93%B1+APP+DEV+AUTHORITY+%7C+50FA7B" alt="Skills Animation" />
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=xploithunter5&label=SYSTEM_ACCESS_LOGS&color=gradient&style=for-the-badge" alt="Visitor Count">
+  </p>
 </div>
 
 ---
 
-### 🛡️ About the Ecosystem
+### 🕵️‍♂️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=FFFFFF&width=400&lines=Professional+Ecosystem" />
 
 #### 🛠️ [Xploit_Hunter](https://github.com/xploithunter5/Xploit_Hunter)
-This repository is a specialized **Security Toolkit** designed for penetration testers and researchers. Much like a **Hackbar** for application security, it provides a centralized interface for vulnerability discovery, payload testing, and manual security audits. 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=FFFF00&width=800&lines=A+specialized+security+toolkit+analogous+to+advanced+DH+Hackbars." />
+*This repository serves as a centralized interface for vulnerability discovery, payload testing, and manual application security audits.*
 
 #### 🎭 [Deface](https://github.com/xploithunter5/Deface)
-This project is dedicated to **Web Security Demonstration**. It is used to illustrate the impact of successful web-based attacks, specifically focusing on how site integrity can be compromised and displayed through defacement research.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&color=FF5555&width=800&lines=Dedicated+to+web+security+demonstration+and+site+integrity+research." />
+*A research project focused on displaying the impact of web-based attacks and illustrating security vulnerabilities through site defacement research.*
 
 ---
 
-### ⚖️ Legal Disclaimer & Responsibility
-**Usage of the tools and information within these repositories is strictly for educational and ethical security testing purposes only.** The developer (**Xploit_Hunter**) assumes **no responsibility or liability** for any misuse, damage, or illegal activities caused by the information or tools provided here. By accessing these repositories, you agree to use this knowledge solely for the improvement of system security and within the boundaries of the law.
+### ⚠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=FF0000&width=400&lines=Legal+Disclaimer" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=FF5555&multiLine=true&width=800&height=80&lines=The+developer+of+Xploit_Hunter+is+NOT+responsible+for+any+misuse;of+the+tools+provided.+These+resources+are+strictly+for+legal;security+testing+and+educational+purposes+only." />
 
 ---
 
-### 🛠️ Professional Mastery Arsenal
+### 🛠️ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=00FF00&width=400&lines=Technical+Arsenal" />
 
-* **🔴 Cyber Security:** Penetration Testing, Vulnerability Assessment, Exploit Development, and Kali Linux optimization.
-* **🟡 Python Development:** Advanced automation, tool engineering, and secure backend architecture.
-* **🟢 Full-Stack Engineering:** Web Development (HTML/JS), Mobile App Development, and secure database management.
-
----
-
-### 📊 System Activity Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xploithunter5&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ffff00&text_color=ffffff&bg_color=000000)
+<p align="left">
+  <img src="https://img.shields.io/badge/SECURITY-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-FFFF00?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/WEB_DEV-00FF00?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/ANDROID-00FFFF?style=for-the-badge&logo=android&logoColor=black" />
+</p>
 
 ---
 
 <div align="center">
-  <i>"Mastering the code to secure the digital world."</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%22Every+system+has+a+weakness%22+%7C+FF0000;%22I'm+just+the+one+who+finds+it%22+%7C+FFFF00" alt="Mission" />
+  
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
