@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🎭 Xploit Hunter | Profile
 
-<!--
-**xploithunter5/xploithunter5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Every system has a weakness. I'm just the one who finds it."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Main Project: [Deface](https://github.com/xploithunter5/Deface)
+I am currently working on the **Deface** repository. It is built with **HTML** and focused on web research.
+
+### 🛠️ Other Tools
+* **[Xploit_Hunter](https://github.com/xploithunter5/Xploit_Hunter):** My secondary knowledge repository.
+
+---
+
+### 📊 Security Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=xploithunter5&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=00ff00)
